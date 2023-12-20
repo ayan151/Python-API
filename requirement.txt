@@ -34,7 +34,7 @@ decorator==4.4.2
 defusedxml==0.7.1
 distlib==0.3.8
 dj-database-url==2.1.0
-Django==5.0
+Django
 django-allauth==0.59.0
 django-cart==1.0.4
 django-ckeditor==6.7.0
